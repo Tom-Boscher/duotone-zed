@@ -1,2 +1,2 @@
 # duotone-zed
-An adaptation of Duotone theme from [Simurai](https://github.com/simurai) for Zed Editor
+An adaptation of DuoTone theme from [Simurai](https://github.com/simurai) for Zed Editor
